@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot1", "Robot1\Robot1.csproj", "{A6E21CD8-45CB-4E95-9BF2-8CA45584C95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoBrickUtils", "..\MonoBrickUtils\MonoBrickUtils.csproj", "{9B2195F2-B452-4837-8711-69C41D194F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2195F2-B452-4837-8711-69C41D194F0E}.Debug|x86.ActiveCfg = Debug|x86
+		{9B2195F2-B452-4837-8711-69C41D194F0E}.Debug|x86.Build.0 = Debug|x86
+		{9B2195F2-B452-4837-8711-69C41D194F0E}.Release|x86.ActiveCfg = Release|x86
+		{9B2195F2-B452-4837-8711-69C41D194F0E}.Release|x86.Build.0 = Release|x86
+		{A6E21CD8-45CB-4E95-9BF2-8CA45584C95E}.Debug|x86.ActiveCfg = Debug|x86
+		{A6E21CD8-45CB-4E95-9BF2-8CA45584C95E}.Debug|x86.Build.0 = Debug|x86
+		{A6E21CD8-45CB-4E95-9BF2-8CA45584C95E}.Release|x86.ActiveCfg = Release|x86
+		{A6E21CD8-45CB-4E95-9BF2-8CA45584C95E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
